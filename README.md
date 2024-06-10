@@ -1,2 +1,2 @@
-# GarbageHeap 3317
+# GarbageHeap3317
 Here lies the treasure(trash) of Dormitory 3317.
